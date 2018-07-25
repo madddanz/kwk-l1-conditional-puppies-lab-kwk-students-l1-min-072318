@@ -39,7 +39,7 @@ def some_puppies(pupppies, max_puppies=12)
 end
 
 puts some_puppies(2, 6)
-puts some_puppies(5, 13)
+puts some_puppies(5)
 
 
 

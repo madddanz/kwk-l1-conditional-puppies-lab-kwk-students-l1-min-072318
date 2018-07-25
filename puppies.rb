@@ -34,11 +34,12 @@ def some_puppies(pupppies, max_puppies=12)
   if pupppies > 12
     "Get back to your animal goals!"
   elsif pupppies < 6
-    "Good job, Rachel"
+    "Good job, Rachel!"
   end
 end
 
 puts some_puppies(2, 6)
+puts some_puppies(5, 13)
 
 
 

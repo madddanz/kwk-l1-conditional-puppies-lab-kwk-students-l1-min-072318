@@ -38,7 +38,7 @@ def some_puppies(pupppies)
   end
 end
 
-puts some_puppies(2, 6)
+puts some_puppies(2)
 
 
 # BONUS
